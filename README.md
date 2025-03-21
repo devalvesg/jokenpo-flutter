@@ -9,6 +9,9 @@ Um projeto simples desenvolvido em Flutter para jogar Jokenpô (Pedra, Papel e T
 - Interface intuitiva e responsiva.
 - Feedback visual de cada escolha.
 
+## Video do Funcionamento
+![FlutLab io-Flutter-IDE-online-Google-Chrome-2025-03-20-20-28-08](https://github.com/user-attachments/assets/c573b791-2671-4f17-8d76-87da5d058686)
+
 ## Tecnologias Utilizadas
 - Flutter
 - Dart
@@ -30,7 +33,7 @@ Um projeto simples desenvolvido em Flutter para jogar Jokenpô (Pedra, Papel e T
    ```bash
    flutter run
    ```
-
+   
 ## Estrutura do Projeto
 ```
 lib/
